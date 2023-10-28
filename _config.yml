@@ -13,7 +13,6 @@ plugins:
   - jekyll-gist
   - jemoji
 
-markdown: CommonMarkGhPages
 commonmark:
   options:
     - UNSAFE
