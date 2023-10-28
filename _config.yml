@@ -1,0 +1,29 @@
+title: 猫魔一族の家系
+description: ほたてねこまじんキャラ一覧
+
+url: https://charas.hhotatea.com/
+author:
+  name: HhotateA
+  email: seitokainohotta@gmail.com
+
+plugins:
+  - jekyll-feed
+  - jekyll-avatar
+  - jekyll-relative-links
+  - jekyll-gist
+  - jemoji
+
+markdown: CommonMarkGhPages
+commonmark:
+  options:
+    - UNSAFE
+  extensions:
+    - autolink
+    - strikethrough
+    - table
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: post
