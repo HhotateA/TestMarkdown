@@ -13,6 +13,7 @@ plugins:
   - jekyll-gist
   - jemoji
 
+markdown: kramdown
 commonmark:
   options:
     - UNSAFE
